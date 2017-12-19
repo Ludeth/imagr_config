@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>workflows</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Install macOS High Sierra</string>
+        <key>restart_action</key>
+        <string>none</string>
+        <key>description</key>
+        <string>This installs macOS High Sierra Vanilla Image</string>
+        <key>components</key>
+        <array>
+          <dict>
+            <key>type</key>
+            <string>startosinstall</string>
+            <key>url</key>
+            <string>file:///Volumes/macOS_Install/imagr/images/Install_macOS_High_Sierra.dmg</string>
+          </dict>
+        </array>
+      </dict>
+    </array>
+  </dict>
+</plist>
