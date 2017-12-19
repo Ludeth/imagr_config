@@ -17,7 +17,7 @@
             <key>type</key>
             <string>startosinstall</string>
             <key>url</key>
-            <string>file:///Volumes/macOS_Install/imagr/images/Install_macOS_High_Sierra.dmg</string>
+            <string>file:///Volumes/Image\ Volume/imagr/images/Install_macOS_High_Sierra.dmg</string>
           </dict>
         </array>
       </dict>
